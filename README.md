@@ -1,1 +1,0 @@
-# Abhishek_Kumawat_AI-project-submission_
