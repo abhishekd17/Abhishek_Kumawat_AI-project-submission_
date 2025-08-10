@@ -13,9 +13,9 @@ This comprehensive employee sentiment analysis project analyzed **10 employees**
 ### Top Performing Employees (Latest Month: 2011-12)
 
 #### Most Positive Employees
-1. Employee eric.bass@enron.com (Score: 1)
-2. Employee johnny.palmer@enron.com (Score: 1)
-3. Employee bobette.riner@ipgdirect.com (Score: 0)
+1. Employee kayne.coulter@enron.com (Score: 4)
+2. Employee lydia.delgado@enron.com (Score: 4)
+3. Employee rhonda.denton@enron.com (Score: 4)
 
 #### Employees Needing Attention (Most Negative)
 1. Employee bobette.riner@ipgdirect.com (Score: 0)
@@ -23,8 +23,12 @@ This comprehensive employee sentiment analysis project analyzed **10 employees**
 3. Employee john.arnold@enron.com (Score: 0)
 
 ### Flight Risk Assessment
-- **High Risk Employees:** 0 employees
-- **Medium Risk Employees:** 0 employees
+- **High Risk Employees:** 4 employees
+1. bobette.riner@ipgdirect.com
+2. don.baughman@enron.com
+3. john.arnold@enron.com
+4. sally.beck@enron.com
+- **Medium Risk Employees:** 2 employees
 
 #### High Risk Employees (Immediate Attention Required)
 
